@@ -2,7 +2,8 @@
 #include <stdlib.h>
 
 /**
- * main - returns single digit from 0-10
+ * main - returns single digit from 0-1
+ *Return: Always 0 (Success)
  */
 
 int main(void)
